@@ -60,7 +60,5 @@ stage('DeployToStaging') {
                 }
             }
         }
-    }
-}
 
             
